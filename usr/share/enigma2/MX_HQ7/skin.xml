@@ -513,7 +513,7 @@ skin author: Matrix10
     <ePixmap pixmap="MX_HQ7/menu/exit2.png" position="1212,650" size="48,48" alphatest="blend" />
     <eLabel text="Skin MX HQ7" position="495,10" size="300,40" font="Regular;34" halign="right" foregroundColor="info" backgroundColor="bgmain" transparent="1" />
     <eLabel text="OpenPli" position="20,10" size="300,40" font="Regular;34" halign="left" foregroundColor="info" backgroundColor="bgmain" transparent="1" />
-    <widget name="AboutScrollLabel" font="Regular;22" position="20,70" size="800,560" zPosition="2" split="1" dividechar=":" colposition="0" />
+    <widget name="AboutScrollLabel" scrollbarWidth="6" font="Regular;22" position="20,70" size="800,560" zPosition="2" split="1" dividechar=":" colposition="0" />
     <ePixmap pixmap="MX_HQ7/buttons/red48x48.png" position="30,650" size="48,48" alphatest="blend" />
     <ePixmap pixmap="MX_HQ7/buttons/green48x48.png" position="330,650" size="48,48" alphatest="blend" />
     <ePixmap pixmap="MX_HQ7/buttons/yellow48x48.png" position="630,650" size="48,48" alphatest="blend" />
